@@ -1,0 +1,30 @@
+_repo: Sprotje_44513
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44513-h/images/frontcover.jpg
+creator:
+  author:
+    agent_name: Scharten-Antink, M. (Margo Sybranda Everdina)
+    aliases:
+    - SchartenAntink, M. (Margo Sybranda Everdina)
+    - Schaarten-Antink, M. (Margo Sybranda Everdina)
+    - Scharten-Antink, Margo Sybranda Everdina
+    birthdate: 1868
+    deathdate: 1957
+    gutenberg_agent_id: '7436'
+    url: http://www.gutenberg.org/2009/agents/7436
+description: ''
+gutenberg_issued: '2013-12-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44513'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PT'
+title: Sprotje
+url: http://www.gutenberg.org/ebooks/44513
